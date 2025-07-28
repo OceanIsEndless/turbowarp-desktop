@@ -110,7 +110,7 @@ class DesktopSettingsWindow extends AbstractWindow {
   getDimensions () {
     return {
       width: 550,
-      height: 500
+      height: 550
     };
   }
 
